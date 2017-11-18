@@ -7,14 +7,7 @@ from passlib.hash import sha256_crypt
 
 app = Flask(__name__)
 
-# Config MySQL
-app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = '123456'
-app.config['MYSQL_DB'] = 'myshoppingflaskapp'
-app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
-# init MYSQL
-mysql = MySQL(app)
+
 
 @app.route('/')
 def home():
