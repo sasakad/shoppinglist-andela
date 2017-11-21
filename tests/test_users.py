@@ -1,5 +1,5 @@
 import unittest
-import users
+from flaskapp import users
 class UserTest(unittest.Testcase):
 
     # Ensure user can register
