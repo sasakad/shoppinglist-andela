@@ -8,9 +8,14 @@ Install
 The software needed for this project
 
 Installation
-Create and clone this repo
-$ git clone http://github.com/berlotto/flask-app-template
+
+Create and clone this repo 
+
+$ git clone https://github.com/sasakad/shoppinglist-andela.git
 $ cd flask-app-template
 Create templates using html and css the templates to be used later in creating the flask application.The templates will enable the user to
-    Lo
+    Log in
+    Register
+    Delete,Add and edit shoppinglists
+    
 
