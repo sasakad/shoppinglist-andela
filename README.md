@@ -3,7 +3,14 @@
 [![Build Status](https://travis-ci.org/sasakad/shoppinglist-andela.svg?branch=master)](https://travis-ci.org/sasakad/shoppinglist-andela)
 
 
-This is repo contains file written with the pytho programming language and flask a microframework
-Detailed description of what the repo contains:
-The designs folder contains templates that are created using HTML and styling using css and bootstrap aliitle java script was used.
+This is repo contains an application created with python language and flask framework.
+Install
+The software needed for this project
+
+Installation
+Create and clone this repo
+$ git clone http://github.com/berlotto/flask-app-template
+$ cd flask-app-template
+Create templates using html and css the templates to be used later in creating the flask application.The templates will enable the user to
+    Lo
 
